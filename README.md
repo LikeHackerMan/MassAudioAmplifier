@@ -1,6 +1,6 @@
 # MassAudioAmplifier
 
-This is a Youtube to MP3 converter for Windows, works for Youtube and Youtube Music
+This is a Audio Amplifier, this allows you to amplify any file format to a certain decibel level.
 
 # Installation
 
