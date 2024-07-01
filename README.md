@@ -13,7 +13,7 @@ pip install pydub
 # Features
 
 - You can amplify one or multiple files
-- Select Input and Outfut folders to amplify the intire Folder
+- Select Input and Outfut folders to amplify the entire Folder
 - Choose the desired Amplification (dB)
 - Choose the desired Bitrate
 
